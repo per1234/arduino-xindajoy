@@ -4,6 +4,8 @@
  *
  * This module is based on http://www.arduino.cc/en/Tutorial/JoyStick
  *
+ * Available at: https://github.com/axic/arduino-xindajoy
+ *
  * Copyright (C) Alex Beregszaszi
  *
  * This is free and unencumbered software released into the public domain.
